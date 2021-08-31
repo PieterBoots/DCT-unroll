@@ -1,7 +1,7 @@
 # DCT-unrolled
 full calculation no loops
 
-This is a regular dct calculation unrolled with the loops removed.
+This is a regular dct calculation with the loops removed.
 
 2x2 dct & idct
 
